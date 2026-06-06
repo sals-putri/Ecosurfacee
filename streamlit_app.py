@@ -20,7 +20,7 @@ layout="wide"
 
 sampling_data = {
 
-```
+'''
 "pH": {
     "wadah": "Botol PE",
     "volume": "100 mL",
@@ -173,7 +173,7 @@ sampling_data = {
     "holding_time": "6 bulan",
     "catatan": "Gunakan wadah bebas logam."
 }
-```
+'''
 
 }
 
